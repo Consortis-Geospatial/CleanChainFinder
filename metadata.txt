@@ -14,5 +14,5 @@ tracker=https://github.com/Consortis-Geospatial/CleanChainFinder/issues
 repository=https://github.com/Consortis-Geospatial/CleanChainFinder
 experimental=False
 deprecated=False
-tags=RoadNetwork, NetworkAnalysis, QualityControl
+tags=RoadNetwork, NetworkAnalysis, QualityControl, Topology
 icon=icon.png
