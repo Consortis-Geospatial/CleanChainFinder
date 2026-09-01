@@ -102,11 +102,13 @@ This plugin is released under the GPL-3.0 license.
 [CleanChainFinder on GitHub](https://github.com/Consortis-Geospatial/CleanChainFinder)
 
 ## Support and Contributions
-*Homepage: https://github.com/Consortis-Geospatial/CleanChainFinder
-*Tracker: https://github.com/Consortis-Geospatial/CleanChainFinder/issues
-*Author: Ntourou Evangelia, Malaki Sofia - ConsortisGeospatial
-*Email: ntourou@consortis.com - malaki@consortis.com
-*Repository: https://github.com/Consortis-Geospatial/CleanChainFinder
+
+* **Homepage:** [CleanChainFinder](https://github.com/Consortis-Geospatial/CleanChainFinder)
+* **Issue Tracker:** [GitHub Issues](https://github.com/Consortis-Geospatial/CleanChainFinder/issues)
+* **Authors:** Ntourou Evangelia, Malaki Sofia — Consortis Geospatial
+* **Email:** [ntourou@consortis.com](mailto:ntourou@consortis.com) — [malaki@consortis.com](mailto:malaki@consortis.com)
+* **Repository:** [CleanChainFinder on GitHub](https://github.com/Consortis-Geospatial/CleanChainFinder)
+
 
 
 
