@@ -1,0 +1,18 @@
+[general]
+name=CleanChainFinder
+description=Detects potential pseudonodes and unmerged line endpoints in QGIS, helping users identify and review road-network topology issues.
+about=A QGIS plugin for detecting potential pseudonodes and topology issues in line-based networks. Allows users to define attribute fields that justify line splits and analyze the entire layer or selected features.
+Includes a topology checker that identifies snapped endpoints and creates point layers for easy inspection.
+version=1.0
+qgisMinimumVersion=3.0
+qgisMaximumVersion=3.99
+author=Ntourou, Malaki - ConsortisGeospatial
+email=ntourou@consortis.com - malaki@consortis.com
+category=Analysis
+homepage=
+tracker=
+repository=
+experimental=False
+deprecated=False
+tags=RoadNetwork, NetworkAnalysis, QualityControl
+icon=icon.png
