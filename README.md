@@ -98,10 +98,15 @@ git push
 ```
 
 ## Repository
-
+This plugin is released under the GPL-3.0 license.
 [CleanChainFinder on GitHub](https://github.com/Consortis-Geospatial/CleanChainFinder)
 
-## License
+## Support and Contributions
+Homepage: https://github.com/Consortis-Geospatial/CleanChainFinder
+Tracker: https://github.com/Consortis-Geospatial/CleanChainFinder/issues
+Author: Ntourou Evangelia, Malaki Sofia - ConsortisGeospatial
+Email: ntourou@consortis.com - malaki@consortis.com
+Repository: https://github.com/Consortis-Geospatial/CleanChainFinder
 
-See the repository for licensing information.
+
 
